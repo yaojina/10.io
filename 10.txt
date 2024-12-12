@@ -19,13 +19,4 @@ CCTV1,http://1.197.250.86:9901/tsfile/live/0001_1.m3u8
 CCTV1,http://220.170.243.209:9901/tsfile/live/0001_1.m3u8
 CCTV1,http://112.101.78.50:9901/tsfile/live/0001_1.m3u8
 CCTV1,http://101.19.84.8:9901/tsfile/live/0001_1.m3u8
-CCTV1,http://110.7.128.156:8096/tsfile/live/0001_1.m3u8
-CCTV1,http://113.220.235.97:9999/tsfile/live/0017_1.m3u8
-CCTV1,http://111.9.163.109:9901/tsfile/live/0001_1.m3u8
-CCTV1,http://60.210.100.54:352/tsfile/live/0001_1.m3u8
-CCTV1,http://116.1.184.209:8181/tsfile/live/0001_1.m3u8
-CCTV1,http://222.134.245.16:9901/tsfile/live/0001_1.m3u8
-CCTV1,http://1.197.250.107:9901/tsfile/live/0001_1.m3u8
-CCTV1,http://222.142.65.165:9901/tsfile/live/0001_1.m3u8
-CCTV1,http://222.169.85.8:9901/tsfile/live/0001_1.m3u8
-CCTV1,http://1.197.203.51:9901/tsfile/live/0001_1.m3u8
+

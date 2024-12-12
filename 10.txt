@@ -20,3 +20,22 @@ CCTV1,http://220.170.243.209:9901/tsfile/live/0001_1.m3u8
 CCTV1,http://112.101.78.50:9901/tsfile/live/0001_1.m3u8
 CCTV1,http://101.19.84.8:9901/tsfile/live/0001_1.m3u8
 
+綜藝,#genre#
+C+頻道,https://stream1.freetv.fun/8809ef652c64001910cceaa72e6190b5bfe53d1f7478b98f2bcac0531f8c436d.m3u8
+Channel V HD,https://stream1.freetv.fun/995e6e6a784e701e4ad3ea427fdf4d32bf9ab92eb6fac177133496757562f969.ctv
+KIX[HK],https://stream1.freetv.fun/691b4fe2f3e2dc1b0c7471e6149f9dd2fbdd787402ea3f1cbff1e6df28c074f7.m3u8
+RTHK31,https://stream1.freetv.fun/cabd18457f278cda40ac160bccabf77a6b0ad341e50a00bd62620d78819dd220.m3u8
+TVB Plus,https://stream1.freetv.fun/c3cd3ca8247ddea5e44ca119f668e878189bec8f3e5900df6da554abb9117b7a.m3u8
+TVB Plus,https://stream1.freetv.fun/cf771efb6d9315d9de352eec32c8d4e1c6b2fad52898c1ce092977aefd0de807.ctv
+TVB Plus,https://stream1.freetv.fun/c42c043b6f6721fe0c314b6a0ee20d72d55d13b6f9f721c6e97121617eaf85df.m3u8
+ViuTV HD,https://stream1.freetv.fun/496e7279abb9e878cbd7f71a15585617a62eb7628fa84be0122762b470345622.m3u8
+ViuTV HD,https://stream1.freetv.fun/e4d66fd4c29cf74a40b5d3bb9743f71e4409147a50bb971428057839a054fd3a.ctv
+ViuTVsix,https://stream1.freetv.fun/cb6936a6a03e9cdba87f09f8c97ccae50a0011906decda5203322522a78c0b8d.ctv
+ViuTVsix,https://stream1.freetv.fun/4b38fb01c10d2a54fd31aaab5e3819955a832f6c8212ffc9fc491c9d55ff15d1.m3u8
+星空衛視,https://stream1.freetv.fun/a2764fcf64d61e4ea32f4f9972a630f99d2d3fac7cef4d2afb96818616f8e9d7.m3u8
+星空衛視,https://stream1.freetv.fun/4d6218212c494c9898b8a15b7fc8a3dae025bf257c6ef7ea518e4ac0719da009.ctv
+星空衛視,https://stream1.freetv.fun/48c306427e1b3343209a0fcce838f1d1e0c4125f8fdb771d3dcd30f125bebf0d.ctv
+星空衛視,https://stream1.freetv.fun/4bcf7b55c0ceec1b9e43fe9ab38a162fb6a73df795e2a5b641b618fb6ae53e9e.m3u8
+香港衛視文藝臺,https://stream1.freetv.fun/ba933ab9810a5278aa96e65c3ce2d8d82cda68afaa6f6572a3fcd6ff3f7d771d.m3u8
+香港衛視文藝臺[geo-blocked],https://stream1.freetv.fun/9bc11070376a1b7aa48d014237175e183247bebb956b532b311297f35e239cfc.m3u8
+香港衛視文藝臺,https://stream1.freetv.fun/9997883799cbd1a55b08e80f73d991dd601380ff5923a25d174b75d1f0a5a371.m3u8
